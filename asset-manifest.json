@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guindy-test-app/static/css/main.073c9b0a.css",
+    "main.js": "/guindy-test-app/static/js/main.41aa9d2c.js",
+    "static/js/787.cdcdca4b.chunk.js": "/guindy-test-app/static/js/787.cdcdca4b.chunk.js",
+    "static/media/logo.svg": "/guindy-test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/guindy-test-app/index.html",
+    "main.073c9b0a.css.map": "/guindy-test-app/static/css/main.073c9b0a.css.map",
+    "main.41aa9d2c.js.map": "/guindy-test-app/static/js/main.41aa9d2c.js.map",
+    "787.cdcdca4b.chunk.js.map": "/guindy-test-app/static/js/787.cdcdca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.41aa9d2c.js"
+  ]
+}
